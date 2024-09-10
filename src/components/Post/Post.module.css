@@ -6,6 +6,8 @@
 }
 
 .post-image {
+    height: 80px;
+    width: 120px;
     max-width: 100%;
     display: block;
 }
